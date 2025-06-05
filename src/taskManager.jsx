@@ -39,7 +39,7 @@ function Taskmanager() {
 
   return (
     <div className="container">
-        <h1>GOOD TO SEE YOU!</h1>
+        <h1>GOOD TO SEE YOU!!</h1>
       <h2>Task Manager</h2>
       <img src={background} alt="Background" className="background-image" />
 
